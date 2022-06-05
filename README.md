@@ -110,6 +110,7 @@ Diamond Sponsors are those who have pledged \$1,500/month or more to MUI.
 
 ### Gold 🏆
 
+
 via [OpenCollective](https://opencollective.com/mui) or via [Patreon](https://www.patreon.com/oliviertassinari)
 
 <p align="center">
